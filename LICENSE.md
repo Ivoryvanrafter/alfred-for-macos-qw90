@@ -1,4 +1,4 @@
-
+Get the ultimate Alfred for macOS tool with Alfred for macOS smart Tool: automated-tasks & window-management. Featuring automated-tasks and window-management, it's the best choice
 
 
 
